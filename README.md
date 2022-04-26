@@ -21,5 +21,11 @@ source .venv/bin/activate
 pip install ./src
 ```
 
+Or for installing in editable mode (advised when developing), add a -e: 
+
+```
+pip install ./src
+```
+
 
 Once complete, you will be able to run both `main.py` files inside the sub-projects `project1` and `project2` without any errors! 
