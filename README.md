@@ -24,7 +24,7 @@ pip install ./src
 Or for installing in editable mode (advised when developing), add a -e: 
 
 ```
-pip install ./src
+pip install -e ./src
 ```
 
 
