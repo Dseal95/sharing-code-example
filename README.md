@@ -1,4 +1,4 @@
-# Sharing_Code_Example
+# Sharing Code Example
 An example of using **setup.py** to create a package and share code across a project.
 
 Link to **Medium** article that uses this repository - https://medium.com/@dan.seal.06/sharing-code-using-a-setup-py-b6a596646532
